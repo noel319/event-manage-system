@@ -175,7 +175,7 @@ $(function () {
   //     },
   //     {
   //       latLng: [43.93, 12.46],
-  //       name  : 'San Marino'
+  //       name  : 'Noel'
   //     },
   //     {
   //       latLng: [47.14, 9.52],
